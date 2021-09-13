@@ -1,0 +1,27 @@
+summary {
+  cursor: pointer;
+  list-style: none;
+}
+
+.accordion[open] summary ~ * {
+  animation: toggle 0.1s ease-in-out;
+}
+
+.accordion svg {
+  transition: all 0.3s ease;
+}
+
+.accordion[open] svg {
+  transform: rotate(90deg);
+}
+
+@keyframes toggle {
+  0% {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
