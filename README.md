@@ -2,16 +2,19 @@
 ## Goal
 ![image](https://user-images.githubusercontent.com/58960887/133524122-2ad2c8df-f32c-4ed2-933a-f0254888002b.png)
 
-
 ## Requirements
-### Must:
-- [ ] have an easy-peasy-piece-of-cake-smooth integration
-- [ ] be mobile-first
-- [ ] be as clean as it can
-- [ ] CSS first (not JS-first)
-- [x] use Utility First CSS
-- [ ] be heavily Typed
-- [ ] contain unit tests
+### I am:
+- [ ] an easy-peasy-piece-of-cake with FAST integration
+- [ ] mobile-first
+- [ ] as clean as I can
+- [ ] heavily Typed
+- [ ] covered with tests (unit at least)
+
+## Tools
+- [x] Utility First CSS
+- [ ] Next.js - for static
+
+
 
 ## Components Wishlist
 #### Easy
