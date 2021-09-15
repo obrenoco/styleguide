@@ -1,4 +1,8 @@
 # 🎨 Styleguide 🎨
+## Goal
+![image](https://user-images.githubusercontent.com/58960887/133524122-2ad2c8df-f32c-4ed2-933a-f0254888002b.png)
+
+
 ## Requirements
 ### Must:
 - [ ] have an easy-peasy-piece-of-cake-smooth integration
