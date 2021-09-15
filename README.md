@@ -1,10 +1,11 @@
 # 🎨 Styleguide 🎨
 ## Requirements
 ### Must:
-- [ ] be plug-and-play
+- [ ] have an easy-peasy-piece-of-cake-smooth integration
+- [ ] be mobile-first
 - [ ] be as clean as it can
-- [ ] use as much CSS as possible
-- [x] use Utility First CSS concepts
+- [ ] CSS first (not JS-first)
+- [x] use Utility First CSS
 - [ ] be heavily Typed
 - [ ] contain unit tests
 
